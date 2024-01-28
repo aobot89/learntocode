@@ -13,6 +13,7 @@ print(animals[-1]) # Siste ord i rekken
 
 
 print(animals) # Dyrelisten
-animals(sort) # Sortert i alfabetisk rekkefølge
+animals.sort # Sortert i alfabetisk rekkefølge
 animals.reverse() # Sortert i alfabetisk bakvendt rekkefølge
+print(animals)
 print(animals)
